@@ -3,6 +3,8 @@
 > ## The Project:
 Simple script and easy to change to facilitate the installation of arch linux.
 
+> :warning: I used the device "sda" in this script, you can change it as per your need. Example: "sdx", "nvme0n1".
+
 > ### How to use:
 
 Download the git package and update pacman at the same time:
